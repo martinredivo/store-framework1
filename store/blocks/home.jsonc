@@ -38,7 +38,8 @@
     "callToActionMode": "link",
     "callToActionText": "Go to the collection",
     "callToActionUrl": "/sale/d",
-    "textAlignment": "center"
+    "textAlignment": "center",
+    "blockClass": "metal"
     }
   }
 }
